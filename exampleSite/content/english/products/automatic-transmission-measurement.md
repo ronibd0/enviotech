@@ -11,3 +11,5 @@ title = "Automatic transmission measurement"
 +++
 * The EComparator series advances colour measurement, enabling you to progress from Visual (subjective) to Electronic (objective) results. With the EComparator series, you can now view the colour difference with on-screen colour and on-screen numerical display.
 * Application: Beer, Malts and Caramels | Chemicals | Coatings | Edible Oils and Fats | Food and Beverage | Household Products | Medical and Clinical Products | Petroleum Oils and Waxes | Pharmaceuticals and Cosmetics | Plastics | Sugar Solutions, Syrups and Honey.
+
+![](http://enviotech.com.bd/images/product/color.png)
