@@ -3,11 +3,10 @@ title: Contact
 description: Contact
 office:
   title: Central Office
-  mobile: '0124857985320'
-  email: demo@email.com
+  mobile: "+8801517182063"
+  email: info@enviotech.com.bd
   location: Dhaka, Bangladedsh
-  content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-    eirmod tempor invidunt ut labore et dolore magna
+  content: REPLIES TYPICALLY WITHIN 24 HOURS.
 opennig_hour:
   title: Opening Hours
   day_time:
