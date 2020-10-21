@@ -3,7 +3,6 @@ colors = []
 date = 2020-10-20T18:00:00Z
 description = "The PFXi series of spectrophotometric colorimeters introduces a unique concept in liquid colour control: RCMSi technology. You can benefit from the capability for remote calibration and servicing via the internet - saving the cost and time associated with servicing and guaranteeing compliance with standards."
 discount_price = ""
-draft = true
 images = ["/images/pfxi_195_mb2_04.jpg", "/images/pfxi_195_mb2_03.jpg", "/images/ec_2000_ptco_mb2_01.jpg"]
 price = ""
 sizes = []
