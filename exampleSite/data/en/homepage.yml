@@ -2,8 +2,8 @@
 banner:
   enable: true
   title: Enviotech, Total testing solutions
-  content: LABORATORY TEST EQUIPMENT FOR INDUSTRIES LIKE ENVIRONMENT, WATER, TEXTILE,
-    CHEMICAL, FOOD & PHARMACY ALL IN ONE PLACE BY ENVIOTECH.
+  content: Laboratory test equipment for industries like environment, water, textile,
+    chemical, food & pharmacy all in one place by Enviotech.
   image: images/slider.jpg
   button:
     enable: true
