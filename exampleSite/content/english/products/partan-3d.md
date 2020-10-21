@@ -15,11 +15,11 @@ title = "PARTAN 3D"
 * Rugged design with a compact footprint
 * Self-cleaning mechanism, which reduces user intervention and increases optimal measurement capability
 
-## PARTAN3D VIDEO
+**PARTAN3D VIDEO**
 
 [![](https://www.microtrac.com/images/462c660376b3f9d0d8a7fc74215d1581/670x/max/alpha.webp)](https://www.microtrac.com/products/particle-size-shape-analysis/dynamic-image-analysis/partan-3d/video_details/1/file_id/5d8b7740-c7d4-479f-b855-41aec3c9c754/lang/en)
 
-## FEATURES
+FEATURES
 
 * By having the ability to measure 40 parameters including 15 size, 13 shape / form, 3 surface roughness, density, transparency, and 3D in one analysis, the PARTAN 3D provides users with superior analysis capability that enables quick and confident decision-making regarding product quality
 * Industry leading size range provides the user with greater analysis flexibility to measure a variety of materials
@@ -27,11 +27,11 @@ title = "PARTAN 3D"
 * Engineered to be able to handle the toughest environments, the PARTAN 3D is adaptable for any lab setting
 * The self-cleaning mechanism allows a user to spend less time cleaning the instrument, and more time being productive
 
-## APPLICATION EXAMPLES
+**APPLICATION EXAMPLES**
 
 abrasives, aggregates, building materials, extrudates, fertilizers, foods / feeds, geology / mining, glass beads, medicine / pharmaceuticals
 
-## EXCLUSIVE 3D TECHNOLOGY
+**EXCLUSIVE 3D TECHNOLOGY**
 
 * The only particle size analyzer that tracks particles, using 3D particle measurement
 * The 3D imaging technology and software are the same for PARTAN 3D and PARTAN 3D MAXI
@@ -41,7 +41,7 @@ abrasives, aggregates, building materials, extrudates, fertilizers, foods / feed
 * The filter function in the SOP offers a customized result calculation and presentation
 * The 3D tracking technology enables identification of the minimum-, maximum-, and average- values of size and shape of a single particle automatically
 
-## 3D MEASUREMENT SOFTWARE
+**3D MEASUREMENT SOFTWARE**
 
 * Identify, isolate, and compare parameters of interest for further investigation and analysis
 * Permanent set-up of a Standard Operating Procedures is ideal for multiple users, across multiple shifts
