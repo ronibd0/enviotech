@@ -1,24 +1,23 @@
 ---
-title: "Motorola Watch"
-date: 2019-10-17T11:22:16+06:00
-images: 
-  - "images/showcase/showcase-4.png"
-  - "images/showcase/showcase-2.png"
-  - "images/showcase/showcase-3.png"
-  - "images/showcase/showcase-1.png"
+title: BOD Tester
+date: 2020-10-21T05:22:16+00:00
+images:
+- "/images/bd600_mb2_04.jpg"
+- "/images/bd600_mb2_04-1.jpg"
+description: Accurate, automatic and direct control of your wastewater samples. The
+  BD 600 is a respirometric system for the determination of Biochemical Oxygen Demand
+  (BOD). Save time, reduce the potential for errors and easily interpret data to help
+  make process control decisions for your plant.
+price: ''
+discount_price: ''
+colors: []
+sizes: []
 
-# meta description
-description : "this is meta description"
-
-# product Price
-price: "30.00"
-discount_price: "25.00"
-
-# product variation
-colors : ["black","white","gray"]
-sizes : ["small","medium","large"]
-
-draft: false
 ---
+Applications: Wastewater Treatment  
 
-Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.
+Model: BD 600 - Accurate, automatic and direct control of your wastewater samples. The BD 600 is a respirometric system for the determination of Biochemical Oxygen Demand (BOD). Save time, reduce the potential for errors and easily interpret data to help make process control decisions for your plant.
+
+* Model: BD 600 GLP- Respirometric measuring system optimized for biodegradability tests under GLP conditions
+* The BD 600 is a respirometric system for the determination of Biochemical Oxygen Demand (BOD). Save time, reduce the potential for errors and easily interpret data to help make process control decisions for your plant.
+* Model: BD 606 - Accurate, automatic and direct control of your wastewater samples Mark as favourite
