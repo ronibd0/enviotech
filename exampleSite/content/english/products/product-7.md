@@ -31,3 +31,5 @@ sizes: []
 ---
 * The Lovibond® COD Setups allow highly sensitive and precise water testing with minimum effort. They measure the ST-COD concentration by photometric detection employing a linear relationship between absorbance and concentration. After adding the sample to a Lovibond® COD tube test (LR, MR according to ISO 15705:2002), it is heated in the reactor for two hours at 150 °C and then analysed in the photometer. The COD Setups comprise the photometer, 25 tube tests for each of the two lower measuring ranges, a reactor for sample digestion and a vial stand.
 * Waste Water Set-Ups: MD 600, MD 610, SpectroDirect
+
+![](http://enviotech.com.bd/images/product/water.png)
