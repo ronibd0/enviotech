@@ -2,11 +2,9 @@
 banner:
   enable: true
   title: Enviotech, Total testing solutions
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur
-    adipisicing elit. Voluptas, modi fugit in veritatis labore perferendis. Minima
-    hic at, nostrum nihil!
-  image: images/watch.png
+  content: Laboratory test equipment for industries like environment, water, textile,
+    chemical, food & pharmacy all in one place by Enviotech.
+  image: images/slider.jpg
   button:
     enable: true
     label: Browse All Products
