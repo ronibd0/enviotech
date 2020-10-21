@@ -9,11 +9,11 @@ sizes = []
 title = "CAMSIZER X2"
 
 +++
-The design of the CAMSIZER X2 is based on the well-proven optical particle measurement system Camsizer but is optimized for finer samples **(from 0.8 µm to 8 mm)**. Not only the improved optical resolution but also new options for material feeding allow for an extended application range. Fine particles tend to agglomerate which makes it difficult to record the properties of a single particle. Therefore, it is important to have various possibilities of feeding the sample to the analysis area to be able to find for each material the optimum between the desired dispersion of the agglomerates and the undesired destruction of the individual particle.  
-  
+The design of the CAMSIZER X2 is based on the well-proven optical particle measurement system Camsizer but is optimized for finer samples **(from 0.8 µm to 8 mm)**. Not only the improved optical resolution but also new options for material feeding allow for an extended application range. Fine particles tend to agglomerate which makes it difficult to record the properties of a single particle. Therefore, it is important to have various possibilities of feeding the sample to the analysis area to be able to find for each material the optimum between the desired dispersion of the agglomerates and the undesired destruction of the individual particle.
+
 The CAMSIZER X2 offers the flexible X-Change system: from the X-Fall module (free fall mode), which is the most gentle method for the material, to the X-Jet module with adjustable pressure and variable nozzle geometry and, additionally, the X-Flow module in which particles are dispersed in liquids, optionally by an ultrasonic probe.
 
-## PRODUCT ADVANTAGES
+**PRODUCT ADVANTAGES**
 
 * Digital image processing with unique two-camera-system (acc. to ISO 13322-2)
 * Wide dynamic measuring range from 0.8 µm to 8 mm (extended measuring ranges available
@@ -35,6 +35,6 @@ The CAMSIZER X2 offers the flexible X-Change system: from the X-Fall module (fre
 * Self-cleaning, wear-free, maintenance-free
 * Less time- and labor-intensive than sieve analysis
 
-## APPLICATION EXAMPLES
+**APPLICATION EXAMPLES**
 
 abrasives (medium-size and small grit), activated carbon, cement, chemicals, construction materials, detergents and enzymes, foodstuffs (pulverized and granulated), glass beads, metal and ore powders, pharmaceutical powders / granules / fine pellets, plastic fibers, plastic powders, salts, sand, sugar, wood fibers.
