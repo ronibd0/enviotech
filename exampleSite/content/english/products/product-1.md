@@ -1,24 +1,21 @@
 ---
-title: "Apple Watch"
-date: 2019-10-17T11:22:16+06:00
-images: 
-  - "images/showcase/showcase-1.png"
-  - "images/showcase/showcase-2.png"
-  - "images/showcase/showcase-3.png"
-  - "images/showcase/showcase-4.png"
+title: FLOC Tester
+date: 2020-10-21T05:22:16+00:00
+images: []
+description: 'Floc testers with continuously variable stirring speed for laboratory
+  and field use. Model: ET 730, ET 740, ET 750. Floc testers with continuously variable
+  stirring speed for laboratory and field use Mark as favourite. '
+price: '30.00'
+discount_price: '25.00'
+colors:
+- black
+- white
+- gray
+sizes:
+- small
+- medium
+- large
 
-# meta description
-description : "this is meta description"
-
-# product Price
-price: "30.00"
-discount_price: "25.00"
-
-# product variation
-colors : ["black","white","gray"]
-sizes : ["small","medium","large"]
-
-draft: false
 ---
-
-Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.
+* We are well-known for pool, environmental and industrial water analytics just as we are known for our transmission and reflection colour measurement. Our strengths are flat hierarchies: a high degree of flexibility along with a great quality level. Being certified by DIN ISO since 1997 ensures that we are well-prepared to supply instruments, test kits and reagents for the highest demands from our offices in Germany, UK, US, India, Malaysia, China, Brazil, Spain, and Switzerland in the future.
+* We develop future-oriented analysis solutions for lab and process from a single source. Customers in more than 160 countries trust in the tested quality and the proven reliability of our products, garnering customers from different industries, local retailers, and public clients.
