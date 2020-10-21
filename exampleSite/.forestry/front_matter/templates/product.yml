@@ -27,4 +27,5 @@ fields:
   name: sizes
   label: sizes
 pages:
+- exampleSite/content/english/products/automatic-reflectance-measurement.md
 - exampleSite/content/english/products/automatic-transmission-measurement.md
