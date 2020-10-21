@@ -1,24 +1,15 @@
 ---
-title: "Galaxy Watch"
-date: 2019-10-17T11:22:16+06:00
-images: 
-  - "images/showcase/showcase-2.png"
-  - "images/showcase/showcase-1.png"
-  - "images/showcase/showcase-3.png"
-  - "images/showcase/showcase-4.png"
+title: Electrochemistry
+date: 2020-10-21T05:22:16+00:00
+images:
+- "/images/sd50_mb2_01.jpg"
+- "/images/sd50_case_mb2_01.jpg"
+description: 'Pocket Tester: SD 50 pH, SD 50 in case, SD 60 ORP/Redox . Portable Hand-held
+  Meters: SensoDirect 110, SensoDirect 150. '
+price: ''
+discount_price: ''
+colors: []
+sizes: []
 
-# meta description
-description : "this is meta description"
-
-# product Price
-price: "30.00"
-discount_price: "25.00"
-
-# product variation
-colors : ["black","white","gray"]
-sizes : ["small","medium","large"]
-
-draft: false
 ---
-
-Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.
+Conductivity, dissolved oxygen, redox, pH, TDS: If you want to control these parameters, you should use electrochemical measurement instruments for reliable and fast determination. Especially directly on site, these instruments can cope with any environment, are portable, intuitive and easy to use. The SD 400 Oxi L, the devices of the SD 300 series, the SensoDirect 150 and 110 or the handheld meters of the SD series are also useful helpers for the control of industrial wastewater, drinking water, swimming pool water or water used in the food and beverage industry.
