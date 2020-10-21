@@ -9,11 +9,11 @@ sizes = []
 title = "The vibratory feeder DR 100"
 
 +++
-## APPLICATION EXAMPLES
+**APPLICATION EXAMPLES**
 
 cement clinker, chemicals, coffee, construction materials, fertilizers, fillers, flours, grains, metals powders, minerals, nuts, plastics, sand, seeds, soils, washing powder, ...
 
-## PRODUCT ADVANTAGES
+**PRODUCT ADVANTAGES**
 
 * strong drive for even material feed
 * material bed level and volume flow are adjustable
