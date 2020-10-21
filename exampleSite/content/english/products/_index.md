@@ -13,3 +13,5 @@ Test including: eatable, modern and fuel oils, synthetic compounds, pharma, drin
 
 * Model: Model F, Model F (BS 684) with Compensating slides, AF 7103, Comparator etc.
 * Application: Beer, Malts and Caramels | Edible Oils and Fats | Food and Beverage | Petroleum Oils and Waxes.
+
+![](http://enviotech.com.bd/images/product/color.png)
