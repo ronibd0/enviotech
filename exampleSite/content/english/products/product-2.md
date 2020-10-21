@@ -13,3 +13,5 @@ sizes: []
 
 ---
 Conductivity, dissolved oxygen, redox, pH, TDS: If you want to control these parameters, you should use electrochemical measurement instruments for reliable and fast determination. Especially directly on site, these instruments can cope with any environment, are portable, intuitive and easy to use. The SD 400 Oxi L, the devices of the SD 300 series, the SensoDirect 150 and 110 or the handheld meters of the SD series are also useful helpers for the control of industrial wastewater, drinking water, swimming pool water or water used in the food and beverage industry.
+
+![](http://enviotech.com.bd/images/product/water.png)
