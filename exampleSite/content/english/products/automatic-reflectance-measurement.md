@@ -13,3 +13,5 @@ title = "Automatic reflectance measurement"
 * An ergonomic, flexible reflectance spectrophotometer: TR 520, TR 500, TRA 520, TRA 500.
 * Hand-Held Imaging Spectrocolorimeter: LC100, LC100 SV100 Kit
 * Non Contact Spectrophotometer: NC45
+
+![](http://enviotech.com.bd/images/product/color.png)
