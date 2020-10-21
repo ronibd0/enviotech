@@ -15,7 +15,7 @@ title = "CAMSIZER XL"
 * Analyses 100 images per second with high-speed, high-resolution camera
 * Enclosed optical system which reduces downtime for maintenance
 
-## FEATURES
+**FEATURES**
 
 * By having the ability to measure more than 40 parameters including 15 size, 13 shape / form, 3 surface roughness, density, transparency, and 3D in one analysis, the CAMSIZER XL provides users with superior analysis capability that enables quick and confident decision-making regarding product quality
 * Industry leading size range provides the user with greater analysis flexibility to measure a variety of materials
@@ -23,6 +23,6 @@ title = "CAMSIZER XL"
 * Engineered to be able to handle the toughest environments, the CAMSIZER XL is adaptable for any lab setting
 * The self-cleaning mechanism allows a user to spend less time cleaning the instrument, and more time being productive
 
-## APPLICATION EXAMPLES
+**APPLICATION EXAMPLES**
 
 aggregates, building materials, fertilizers, foods / feeds, geology / mining, glass beads
