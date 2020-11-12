@@ -11,10 +11,10 @@ languageCode = "en-us"
 languageName = "En"
 weight = 1
 [Languages.fr]
-contentDir = "content/french"
+contentDir = "content/bengali"
 copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
-languageCode = "fr-fr"
-languageName = "Fr"
+languageCode = "bn-bn"
+languageName = "Bn"
 weight = 2
 [[menu.footer]]
 URL = "blog"
